@@ -1,0 +1,582 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse briefly shewing the true state and title of the Comptroller, or Postmaster generall of England the Lord Stanhopes right to it, and consequently to the forraigne and inland letter offices, as incident thereunto, and more plainly appeares by a report of Sir Robert Heath, then his Maiesties atturney generall: by a verdict or jury of 12. men in the Kings bench, and a report in the Commons House of Parliament, in the 4. of our gratious soveraigne. 12. Novembris, 37 Henrici Octavi.</title>
+            <author>Stanhope of Harrington, Charles Stanhope, Baron, 1595-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93791</idno>
+            <idno type="STC">Wing S5221A</idno>
+            <idno type="STC">ESTC R184580</idno>
+            <idno type="EEBO-CITATION">99895995</idno>
+            <idno type="PROQUEST">99895995</idno>
+            <idno type="VID">153620</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93791)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153620)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2372:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse briefly shewing the true state and title of the Comptroller, or Postmaster generall of England the Lord Stanhopes right to it, and consequently to the forraigne and inland letter offices, as incident thereunto, and more plainly appeares by a report of Sir Robert Heath, then his Maiesties atturney generall: by a verdict or jury of 12. men in the Kings bench, and a report in the Commons House of Parliament, in the 4. of our gratious soveraigne. 12. Novembris, 37 Henrici Octavi.</title>
+                  <author>Stanhope of Harrington, Charles Stanhope, Baron, 1595-1675.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Identified as Wing S5221A, reel 2372, of the UMI microfilm set "Early English books 1641-1700".</note>
+                  <note>Cf. Wing S5221A which has "geuerall" in the title.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Postal service --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:153620:1"/>
+            <pb facs="tcp:153620:1" rendition="simple:additions"/>
+            <pb facs="tcp:153620:2"/>
+            <pb facs="tcp:153620:2"/>
+            <pb facs="tcp:153620:3"/>
+            <pb n="1" facs="tcp:153620:3"/>
+            <head>A diſcourſe briefly ſhewing the true State and Title of the Comptroller, or Poſtmaſter generall of England, the Lord <hi>Stanhopes</hi> right to it, and conſequently to the forraigne and Inland Letter Offices, as incident thereunto, and more plainly appeares by a Report of Sir <hi>Robert Heath,</hi> then his Maieſties Atturney generall: By a Verdict or Jury of 12. men in the Kings Bench, and a Report in the Commons Houſe of Parliament, in the 4. of our Gratious Soveraigne.</head>
+            <p>
+               <label>
+                  <date>12. Novembris, 37. Henrici Octavi.</date>
+               </label>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>He King granted unto Sir <hi>William Paget,</hi> principall Secretary of State, and <hi>John Ma<g ref="char:EOLhyphen"/>ſon</hi> French Secretary, and the longer liver of them, an Office called, <hi>Officium Magiſtri Nunciorum Curſorum five Poſtarum tam in<g ref="char:EOLhyphen"/>fra Regnum noſtrum Angliae, quam in quibuſ<g ref="char:EOLhyphen"/>cunque alijs partibus tranſmarinis in noſtro do<g ref="char:EOLhyphen"/>minio exiſtentibus,</hi> with a Penſion of 66. li. 13. s. 4 d. <hi>per annum,</hi> To hold, occupie, and enjoy, by themſelves, or their ſufficient Deputie, or Deputies, during their owne lives, or the life of the longer liver of them, with all profits, commodities, and ad<g ref="char:EOLhyphen"/>vantages belonging to the ſaid Office, in ſuch ample and large manner and forme, as Sir <hi>Brian Tuke</hi> Knight, or any other per<g ref="char:EOLhyphen"/>ſon, or perſons in the ſaid Office, had received or enjoyed for the execution of it.</p>
+            <p>
+               <label>
+                  <date>4 <hi>May,</hi> 9. <hi>Elizabethae.</hi>
+                  </date>
+               </label> The Queene grants unto <hi>Thomas Randolph</hi> the ſame Office in theſe words, <hi>Officium Magiſtri nunciorum &amp; curſorum communiter vocatum Poſtarum noſtra<g ref="char:EOLhyphen"/>rum tam Infra Regnum noſtrum Angliae, quam in quibuſcunque alijs partibus tranſmarinis in Noſtro Dominio exiſtentibus,</hi> with the ſame Penſion of 66. li. 13. s. 4. d. <hi>per annum,</hi> to ho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a<g ref="char:EOLhyphen"/>foreſaid, in as ample manner and forme as <hi>John Maſon,</hi> or any other that enjoyed the ſaid Office, &amp;c.</p>
+            <p>
+               <label>
+                  <date>14. <hi>Septembris</hi> 1569.</date>
+               </label> 
+               <hi>Thomas Randolph</hi> in vertue of the a<g ref="char:EOLhyphen"/>foreſaid Grant, makes a Deputation to <hi>Rafaell Vandeput</hi> to be the Merchant Strangers Poſt within the citie of London, to enjoy it with all the profits and priviledges that <hi>Chriſtian Suſling</hi> enjoyed.</p>
+            <pb n="2" facs="tcp:153620:4"/>
+            <p>
+               <label>
+                  <date>21. <hi>Junii.</hi> 22. <hi>Elizabethae,</hi>
+                  </date>
+               </label> the Queene made a Grant of the ſame office unto <hi>John</hi> Lord <hi>Stanhope,</hi> in the ſame words of <hi>Offi<g ref="char:EOLhyphen"/>cium Magiſtri nunciorum &amp; curſorum communiter vocatum Po<g ref="char:EOLhyphen"/>ſtarum noſtrarum tam infra Regnum noſtrum Angliae, quam in quibuſcunque aliis partibus tranſmarinis in noſtro dominio exiſten<g ref="char:EOLhyphen"/>tibus,</hi> with the ſame Penſion, and with all the profits, commodi<g ref="char:EOLhyphen"/>ties, and advantages in as ample manner and forme, as Sir <hi>John Maſon, Thomas Randalph,</hi> or any body elſe who had formerly enjoyed the ſaid Office.</p>
+            <p>
+               <label>
+                  <date>18. <hi>Decembris.</hi> 1. <hi>Jacobi &amp; Anno Domini,</hi> 1603.</date>
+               </label> 
+               <hi>John</hi> Lord <hi>Stanhope,</hi> In vertue of the former Grant makes a Deputation unto <hi>Mathew Dequeſter</hi> for his life, to be the Merchant ſtrangers Poſt-within the city of London, to enjoy it with all profits and priviledges in as ample manner as <hi>Rafaell Vandeput</hi> had done before him.</p>
+            <p>
+               <label>
+                  <date>25. <hi>Julii</hi> 5. <hi>Jacobi,</hi>
+                  </date>
+               </label> 
+               <hi>John</hi> Lord <hi>Stanhope</hi> having ſurrendered his former Grant, the King makes a new Grant of the ſame Of<g ref="char:EOLhyphen"/>fice, unto the ſaid <hi>John</hi> Lord <hi>Stanhope,</hi> and <hi>Charles</hi> his Sonne, in the very ſame words, to hold and enjoy during both their lives, &amp; the longer liver of them by themſelves, or their ſufficient De<g ref="char:EOLhyphen"/>putie or Deputies with the ſame Penſion, and all other profits, regards, diet, commodities, and advantages belonging or per<g ref="char:EOLhyphen"/>taining unto the ſaid Office, in as ample manner and forme as Sir <hi>John Maſon, Thomas Randolph,</hi> or the ſame <hi>John</hi> Lord <hi>Stan<g ref="char:EOLhyphen"/>hope</hi> himſelfe or any body elſe in the ſaid Office had formerly enjoyed.</p>
+            <p>
+               <label>
+                  <date>13. <hi>Aprill,</hi> 17. <hi>Jacobi,</hi>
+                  </date>
+               </label> The King (as is alleadged) erects a new Office of Poſtmaſter of England for forraine parts, out of his Majeſties Dominions, conferring it upon <hi>Matthew Dequeſter,</hi> the father, and <hi>Matthew Dequeſter</hi> the Sonne, for their lives, or the longer liver of them, with power and authotitie to them<g ref="char:EOLhyphen"/>ſelves, ſufficient deputie or Deputies, ſervant, or ſervants, to have the ſole taking up, ſending, or conveying of all packets and letters concerning the ſervice of us, our heires, and ſucceſ<g ref="char:EOLhyphen"/>ſors, and of all other packets and letters, to have the nominating and appointing of Poſts and Cariers neceſſary and convenient, as well within the Realm of England, as in any forreine parts, for the conveying, exporting, and importing ſuch letters &amp; packets,
+<pb n="3" facs="tcp:153620:4"/> as aforeſaid, and from time to time demand and take for the exe<g ref="char:EOLhyphen"/>cution of the ſaid Office for their paines of the parties that ſhould imploy them, all and every the like ſumme and ſummes of mony, rewards, Rates, and emolluments, reſpectively as then were, and afterwards ſhould be lawfully, or uſually taken, for, or in reſpect of doing or performing of the ſame or the like buſineſſe, &amp;c.</p>
+            <p>
+               <label>
+                  <date>15. <hi>Martii</hi> 7. <hi>Caroli,</hi>
+                  </date>
+               </label> The King reciting the former Patent, and taking notice that <hi>Matthew Dequeſter</hi> the ſonne was dead, and <hi>M. Dequeſter</hi> the father ſtill living, grants a Reverſion of the ſaid Office unto <hi>William Frizell,</hi> &amp; M. <hi>Thomas Witherings</hi> for both their lives, or the longer liver of them, to beginne immediatly af<g ref="char:EOLhyphen"/>ter the death of <hi>Matthew Dequeſter</hi> the father, and to receive the ſame benefits, Emollumants and rewards ſpecified in <hi>Dequeſters</hi> Patent aforegoing, &amp;c.</p>
+            <p>
+               <label>
+                  <date>25. <hi>Aprilis</hi> 13. <hi>Caroli,</hi>
+                  </date>
+               </label> 
+               <hi>Charles</hi> Lord <hi>Stanhope</hi> was command<g ref="char:EOLhyphen"/>ed to bring his Letters Patents to the Councell Table.</p>
+            <p>
+               <label>
+                  <date>22. <hi>Junii,</hi> 13. <hi>Caroli,</hi>
+                  </date>
+               </label> 
+               <note place="margin">Patent of Mr. <hi>Witherings</hi> a Monopoly, prohibiting all others to carry Letters but himſelfe.</note> The King (as is alleadged) creates, and erects a new Office, to be called <hi>The Letter Office of England,</hi> de<g ref="char:EOLhyphen"/>claring there ſhould be one Officer from time to time appointed to receive, and ſend all Letters to and fro within his Majeſties Dominions of England, Scotland, and Ireland, where the ſaid Officer ſhall ſettle Poſts, except ſuch Letters as ſhall be ſent by common knowne Carriers, along with their Carts, Wagons, or Pack-horſes, and a letter or more ſent by a Meſſenger on purpoſe, or by a friend, to have and take for Poſtage and con<g ref="char:EOLhyphen"/>veyance thereof certaine rates therein ſpecified: and this Of<g ref="char:EOLhyphen"/>fice the King grants unto Maſter <hi>Thomas Witherings</hi> during his naturall life to bee exerciſed by himſelfe, his Deputies or Aſ<g ref="char:EOLhyphen"/>ſignes, and the ſaid Maſter <hi>Witherings</hi> at the ſame time cove<g ref="char:EOLhyphen"/>nanting to pay unto certaine Poſtmaſters of the foure principall Rodes of England, certaine ſummes of money amounting to 2053. li. 11. s. 4. d. according to a Schedule thereto annexed, for which ſummes of money they were bound to runne in poſt, and carrie once a weeke both inwards and outwards the Maile or Mailes of Letters without further charge and allowance.</p>
+            <p>
+               <label>
+                  <date>1. <hi>Julii.</hi> 13. <hi>Caroli,</hi>
+                  </date>
+               </label> The King grants unto Sir <hi>John Cooke,</hi> and Sir <hi>Francis Wind banke,</hi> Knights, principall Secretaries of State, <hi>Officium Magiſtri Nunciorum, &amp; curſorum communiter vocatum Poſtarum, noſtrarum infra dominica noſtra,</hi> with a Penſion of 66.
+<pb n="4" facs="tcp:153620:5"/> li. 13. s. 4. d. <hi>per annum,</hi> and all other profits, Rights, Regards, Diets, Commodities, and advantages belonging or appertaining unto the ſaid Office, to hold and enjoy the premiſes by themſelves, or by their Deputie or Deputies during their lives, or the longer liver of them in the ſaid Office of principall Secretaries of State, in as ample manner and forme as Sir <hi>Iohn Maſon, Thomas Ran<g ref="char:EOLhyphen"/>dolph, Iohn</hi> Lord <hi>Stanhope,</hi> or any other that formerly had or en<g ref="char:EOLhyphen"/>joyed the ſaid Office: and further declares, that for the future, the ſaid Office ſhall be joyned and annexed unto the Office or place of chieſe Secretaries of State for the time being ſucceſſively, &amp;c.</p>
+            <p>
+               <note place="margin">Lord <hi>Stanhope</hi> and his prede<g ref="char:EOLhyphen"/>ceſſors Poſt<g ref="char:EOLhyphen"/>maſters gene<g ref="char:EOLhyphen"/>rall of <hi>England</hi> for 80. yeares.</note> By the fore-recited Patents, it appeares how <hi>Charles</hi> Lord <hi>Stanhope</hi> and his predeceſſors in the Office were Controllers or Poſtmaſters generall of England, from the 37. of <hi>Henry</hi> the 8. untill the 17. of King <hi>Iames,</hi> which is about foureſcore yeares, and the deceaſed Lord <hi>Stanhope</hi> did not onely by himſelfe and depu<g ref="char:EOLhyphen"/>ties enjoy the ſaid Office without diſturbance for thirtie yeares together, but by vertue thereof in <hi>December</hi> 1603. makes a Deputation unto <hi>Matthew Dequeſter</hi> for his life, <note place="margin">Mr. <hi>Dequeſter,</hi> Lord <hi>Stanhopes</hi> Deputy.</note> to be the Mer<g ref="char:EOLhyphen"/>chant Strangers Poſt within the city of London, under whom in ſubordination to the L. <hi>Stanhope</hi> were nine other, called the forrain Poſts or Curriers, who by turnes went to and fro into France, Flanders, and Holland, with all packets, and letters, both of the State, and particular Merchants, and <hi>Matthew Dequeſter</hi> conti<g ref="char:EOLhyphen"/>nually by his place reciding at the Office in London, at the arri<g ref="char:EOLhyphen"/>vall of each forreigne Poſt or Currier, <note place="margin">Nine Curriers or Forreigne Poſts.</note> received the Letters, and diſtributed them abroad unto Merchants, and likewiſe col<g ref="char:EOLhyphen"/>lecting the Merchants letters, delivered them to the Curriers to be exported, and for this labour and paines of his, had a noble a voyage of each Currier inwards, <note place="margin">
+                  <hi>Dequeſter</hi> had only one tenth part of the fruits out<g ref="char:EOLhyphen"/>wards, and a noble each voyage in<g ref="char:EOLhyphen"/>wards.</note> and the tenth part of all the pro<g ref="char:EOLhyphen"/>fits outwards, the Curriers enjoying the reſt themſelves, and this appeares by ſundry Proclamations, the originall Deputation un<g ref="char:EOLhyphen"/>to <hi>Matthew Dequeſter</hi> under <hi>Iohn</hi> Lord <hi>Stanhops</hi> hand, 18. <hi>Decem.</hi> 1603. <hi>Matthew Dequeſters</hi> owne hand writing, and the depoſi<g ref="char:EOLhyphen"/>tion of thouſands ſtill living if it were needfull. <hi>Matthew Deque<g ref="char:EOLhyphen"/>ſter</hi> having thus managed the Office for the forraine Letters, as deputie to the Lord <hi>Stanhope</hi> about 20. yeares, <note place="margin">
+                  <hi>Dequeſter</hi> be<g ref="char:EOLhyphen"/>traying the Lord <hi>Stanhope</hi> whoſe ſervant he had beene for 20. yeares.</note> either out of vaine<g ref="char:EOLhyphen"/>glory, covetouſnes, or ſome ſiniſter reſpects, or other, finds means to informe the King how the Lord <hi>Stanhops</hi> Patent was only for ſervices to be done in forreine parts within the Kings Dominions;
+<pb n="5" facs="tcp:153620:5"/> and hereupon under 13. Aprill 17. <hi>Iacobi</hi> the King makes a Grant unto <hi>Mat. Dequeſter</hi> the father, and <hi>Mat. Dequeſter</hi> the ſonne, for their lives, or the longer liver of them to be <hi>Poſtmaſters of England for ſervices to be done in forreinparts being out of his Majeſties Domi<g ref="char:EOLhyphen"/>nions,</hi> and by vertue thereof pretended to ſettle Poſts and Carriers within his Majeſties Dominions of England, and began effectual<g ref="char:EOLhyphen"/>ly to carry to and fro within the Kingdome, all ſuch Letters and Packets, as were to goe out or come from abroad, by force and vertue of the aforeſaid Grant: about which time <hi>Iohn</hi> Lord <hi>Stan<g ref="char:EOLhyphen"/>hope</hi> dying, <hi>Charles</hi> Lord <hi>Stanhope</hi> having notice hereof, made oppoſition, whereupon on the 19. of <hi>December</hi> 21. <hi>Iacobi,</hi> the King by his Letters Patents declares, that ſithence the making of the ſaid Letters Patents the 17 <hi>Iacobi. Charles</hi> Lord <hi>Stanhope</hi> of Harington made complaint that the ſaid Grant unto <hi>De<g ref="char:EOLhyphen"/>queſter</hi> did trench into the office which the ſaid <hi>Charles</hi> Lord <hi>Stanhope</hi> held of Poſtmaſter generall, as well within the King<g ref="char:EOLhyphen"/>dome of England, as in whatſoever parts beyond the ſeas within his Majeſties Dominions; his Majeſtie was pleaſed to referre the ſaid complaint unto <hi>William</hi> late Earle of Penbrooke, Sir <hi>George Calvert,</hi> principall Secretary of State, Sir <hi>Thomas Coventry</hi> his Majeſties Attorny Generall, and Sir <hi>Robert Heath</hi> his Majeſties Soliciter Generall, who certified under their hands, that the ſaid Lord <hi>Stanhopes</hi> Grant of Maſter of his Majeſties Poſts did extend but to ſuch ſervices as were to be done in the Realme of England, <note place="margin">Lord <hi>Stanhopes</hi> Grant extend to all ſervices to be done within his Ma<g ref="char:EOLhyphen"/>jeſties Domi<g ref="char:EOLhyphen"/>ons.</note> and others his ſaid Majeſties Dominions, and that <hi>Dequeſters</hi> Patent extended onely to ſervices to be done out of his Maje<g ref="char:EOLhyphen"/>ſties Dominions; Maſter <hi>Dequeſter</hi> notwithſtanding continuing to incroach upon the priviledges of <hi>Charles</hi> Lord <hi>Stanhope</hi> Poſt<g ref="char:EOLhyphen"/>maſter Generall of England, <note place="margin">
+                  <hi>Dequeſters</hi> Pa<g ref="char:EOLhyphen"/>tent extended onely to ſervi<g ref="char:EOLhyphen"/>ces to be done out of his Ma<g ref="char:EOLhyphen"/>jeſties Domi<g ref="char:EOLhyphen"/>nions.</note> and other his Majeſties Domini<g ref="char:EOLhyphen"/>ons, the ſaid Lord petitions King <hi>Iames</hi> of happy memory for leave to trie his title at Law, and having commenced a ſute, af<g ref="char:EOLhyphen"/>ter along Evidence obtaines a Verdict in <hi>Hillary</hi> Terme, 22. <hi>Ia<g ref="char:EOLhyphen"/>cobi</hi> for the validitie of his owne Patent againſt <hi>Dequeſters,</hi> 
+               <note place="margin">A Verdict in the Kings Bence for the Lord <hi>Stanhopes</hi> Patent againſt <hi>Dequeſter.</hi>
+               </note> but the ſaid <hi>Charles</hi> Lord <hi>Stanhope</hi> being ſtill deluded, was conſtrai<g ref="char:EOLhyphen"/>ned to petition our gratious Soveraigne that now is; Copies of which Petitions, together with his Majeſties Reference, and the Report thereupon, extracted from the Originall, hereafter fol<g ref="char:EOLhyphen"/>low.</p>
+            <pb n="6" facs="tcp:153620:6"/>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Kings moſt excellent Majeſty.</head>
+                  <head>The humble Petition of <hi>Charles</hi> Lord <hi>Stanhope</hi> of <hi>Harington.</hi>
+                  </head>
+                  <opener>Moſt humbly ſhewing unto your moſt gracious Majeſtie,</opener>
+                  <p>
+                     <note place="margin">Lord <hi>Stanhops</hi> Petition to the Parliament, 4. <hi>Caroli.</hi>
+                     </note> THat whereas it pleaſed your Majeſties late Father of worthy memory, <hi>King Iames,</hi> to inveſt upon your Petitioner, and his deceaſed Father, <hi>Iohn</hi> Lord <hi>Stanhope</hi> of <hi>Harington,</hi> the Office of Poſtmaſter generall of all his Majeſties Dominions whatſoever, as well within the Realme of England, as in whatſoever place be<g ref="char:EOLhyphen"/>yond the ſeas. And whereas your Petitioners Father did in his life time appoint one <hi>Matthew Dequeſter</hi> a Dutch man to be his Deputie for tranſporting and importing of letters from London, into, and from forreigne parts, <note place="margin">
+                        <hi>Dequeſters</hi> frau<g ref="char:EOLhyphen"/>dulent dealing towards his old Maſter.</note> which <hi>Matthew Dequeſter</hi> (taking advantage of ſuch defects as he ſuppoſed to be in your Petitioners Patent) did fraudulently and cunningly procure a Patent from your Highneſſes Father, for tranſporting and importing of Let<g ref="char:EOLhyphen"/>ters out of your Highneſſe Dominions, into, and from forreigne parts, thereby ſuppoſing to deceive your Petitioner of a great part of his Office, to your Petitioners great diſhonour and diſgrace.</p>
+                  <p>The Title of your Petitioners Patent, It pleaſed your Father of famous memory, to give leave to trie at Law, as by the Peti<g ref="char:EOLhyphen"/>tion annexed appeareth: And for as much as your Petitioner hath tried his Title at Law accordingly, and recovered his right there<g ref="char:EOLhyphen"/>by, <note place="margin">
+                        <hi>Dequeſters</hi> Pa<g ref="char:EOLhyphen"/>tent declared void by Law,</note> by which the Patent of <hi>Dequeſter</hi> appeares to be void by a Ju<g ref="char:EOLhyphen"/>ry and Verdict of twelve men, although the Judges for matter of words in the Declaration, &amp; not for any thing in ſubſtance, have ſtaied Judgement. May it therefore pleaſe your gratious Maieſtie, (notwithſtanding the Verdict ſo paſſed againſt <hi>Matthew Deque<g ref="char:EOLhyphen"/>ſter</hi> his Patent) for your Highneſſe better ſatisfaction, that the Of<g ref="char:EOLhyphen"/>fice is truely belonging to your Petitioner, to call before your Majeſtie your Atturny Generall, who can (by the Verdict recove<g ref="char:EOLhyphen"/>red and recorded, and being fully acquainted in all the procee<g ref="char:EOLhyphen"/>ding) truely informe your Majeſtie, And that two of the Judges of your Highneſſe Bench, namely Juſtice <hi>Dodridge,</hi> and Juſtice <hi>Whitlocke</hi> may deliver likewiſe their opinions unto your Majeſtie
+<pb n="7" facs="tcp:153620:6"/> for the clearing thereof; which being done, that your gracious Majeſtie would be pleaſed to give Order to your Solliciter Ge<g ref="char:EOLhyphen"/>nerall to draw a Pro<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ation ready for your Majeſties Signa<g ref="char:EOLhyphen"/>ture, thereby commanding the ſaid <hi>Dequeſter,</hi> and all others whom ſoever (except your Petitioner, and his deputies and ſer<g ref="char:EOLhyphen"/>vants under his Hand and Seale already authorized) to ſurceaſe the execution of tranſporting and importing of any Merchants, Tradſmen, or others your Majeſties ſubjects Letters, from, or in<g ref="char:EOLhyphen"/>to the Citie of London, into, or from forreigne parts, according to ſuch Proclamations formerly in the like kinde, and under ſuch paines and penalties as heretofore have beene ſet downe in the ſame Proclamation,</p>
+                  <closer>And your Petitioner, &amp;c.</closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="reference">
+               <body>
+                  <head>His Majeſties Reference on the ſaid Petition.</head>
+                  <opener>
+                     <dateline>At the Court at Whitehall, <date>the 4. Feb. 1625.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <note place="margin">Sir <hi>Robert Heath</hi> his Majeſties Arturney Ge<g ref="char:EOLhyphen"/>nerall, ordered to report.</note> HIs Majeſtie is graciouſly pleaſed, that Maſter Atturny Ge<g ref="char:EOLhyphen"/>nerall examine the proceedings mentioned in this Petition, and certiſie his Majeſtie concerning the ſame, with his opinion of the Petitioners right, and if the Patent of <hi>Dequeſters</hi> be void by Jury and Verdict of twelve men, and the true cauſe why the Judges have forborne to give Judgement, and then his Majeſtie will further ſignifie his royall pleaſure.</p>
+                  <closer>
+                     <signed>Thomas Aylesbury.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <head>Report of Sir <hi>Robert Heath</hi> his Majeſties At<g ref="char:EOLhyphen"/>turny Generall.</head>
+                  <p>
+                     <note place="margin">Office of Poſt<g ref="char:EOLhyphen"/>maſter gene<g ref="char:EOLhyphen"/>rall of <hi>England</hi> an ancient Of<g ref="char:EOLhyphen"/>fice, and <hi>De<g ref="char:EOLhyphen"/>queſter</hi> the Lord <hi>Stanhops</hi> Depu<g ref="char:EOLhyphen"/>tie.</note> ACcording to your Majeſties command, I have examined the proceedings mentioned in that Petition, and doe finde it true, That <hi>the Office of Poſtmaſterſhip of England is an antient Office, that Dequeſter was for divers yeares Deputie under</hi> John <hi>Lord</hi> Stanhope (who had this Office) for the forreigne ſervice.</p>
+                  <p>
+                     <note place="margin">
+                        <hi>Dequeſters</hi> falſe ſuggeſtions.</note> That <hi>Dequeſter</hi> afterwards found the meanes to obtaine a Pa<g ref="char:EOLhyphen"/>tent to himſelfe of all the forreigne ſervice, ſuggeſting that the Lord <hi>Stanhopes</hi> Grants was but for all Packets of Letters within this Realme, and that your Majeſtie might grant another for thoſe which ſhould be carried out of the Realme.</p>
+                  <pb n="8" facs="tcp:153620:7"/>
+                  <p>
+                     <note place="margin">
+                        <hi>Dequeſters</hi> Pa<g ref="char:EOLhyphen"/>tent condem<g ref="char:EOLhyphen"/>ned by a Ver<g ref="char:EOLhyphen"/>dict at Law.</note> That <hi>Charles</hi> Lord <hi>Stanhope</hi> now the Poſtmaſter, brought his Action &amp; upon a long evidence, <hi>Had a verdict for himſelf againſt</hi> Dequeſters <hi>Patent,</hi> but the Judges have not given judgement ac<g ref="char:EOLhyphen"/>cording to the verdict, for ſome default in the Declaration of the Plaintife, but not for any diſlike of the verdict.</p>
+                  <p>That above fifty Merchants trading for the Neatherlands, did certifie under their hands, the prejudice they ſuffer by <hi>Dequeſters</hi> partiality, in delivering Merchant Strangers Letters (which be<g ref="char:EOLhyphen"/>ing the intelligence of their trade) before the Letters of the Engliſh.</p>
+                  <p>
+                     <note place="margin">Lord <hi>Stanhopes</hi> right to the forreine buſi<g ref="char:EOLhyphen"/>neſſe as Poſt<g ref="char:EOLhyphen"/>maſter gene<g ref="char:EOLhyphen"/>rall.</note> Upon which I conceive my <hi>Lord Stanhope had right to this im<g ref="char:EOLhyphen"/>ployment, as incident to the place of Poſtmaſter Generall.</hi>
+                  </p>
+                  <p>And it is the more convenient, becauſe your Merchants deſire to have a meere Engliſhman whom they know and truſt: and if it be ſetled with the Lord <hi>Stanhope</hi> and his Deputy, <hi>Matthew De<g ref="char:EOLhyphen"/>queſter,</hi> if he ſhall finde incouragement, may nevertheleſſe bring his action, and make an experience, if upon a new tryall hee can procure a verdict for him and his title.</p>
+                  <closer>
+                     <signed>Ro: Heath.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>NOtwithſtanding this benigne Reference from his Majeſty, and ſo ample and juſt a Report made by ſo many Honoura<g ref="char:EOLhyphen"/>ble Perſonages, the power and ſubtilty of <hi>Matthew Dequeſter</hi> was ſuch, as the Lord <hi>Stanhope</hi> was ſtill deluded by him; Whereupon <hi>Henry Billingsley,</hi> Deputy to the ſaid Lord <hi>Stanhope,</hi> was forced ſeverall times to have recourſe unto the Parliament, <hi>quarto Ca<g ref="char:EOLhyphen"/>roli,</hi> Copy of his ſecond Petition being this that followes; toge<g ref="char:EOLhyphen"/>ther with an Order of the Commons Houſe thereupon, and Re<g ref="char:EOLhyphen"/>port of the Committee appointed in that behalfe.</p>
+            <floatingText xml:lang="eng" type="petition">
+               <body>
+                  <head>To the Honourable Aſſembly in the Commons Houſe of Parliament.</head>
+                  <head>The humble Petition of the Merchants of London in generall, and of <hi>Henry Billingsley</hi> in particular.</head>
+                  <opener>Sheweth,</opener>
+                  <p>
+                     <note place="margin">Pitition of Mr. <hi>Hen. Billingsley,</hi> Deputy to the Lord <hi>Stanhope.</hi> 4. <hi>Caroli.</hi>
+                     </note> THat whereas your Petitioners having heretofore exhibited a Petition to the grand Committee for grievances againſt one <hi>Matthew Dequeſter,</hi> concerning the Poſtmaſters office in con<g ref="char:EOLhyphen"/>veighing
+<pb n="9" facs="tcp:153620:7"/> Letters beyond the Seas; wherein is ſet forth the great abuſe offered to your Petitioners by the ſaid <hi>Dequeſter</hi> in the exe<g ref="char:EOLhyphen"/>cution of the ſaid office, a time now long ſince paſt was appointed by the Honourable Committee to heare the ſaid cauſe, but by reaſon of many other urgent and weighty occaſions, and other Petitions of grievances which had priority in the exhibition; your Petitioners complaint hath not as yet been heard, but your Petitioner <hi>Billingsley</hi> ever ſince detained a priſoner in the Mar<g ref="char:EOLhyphen"/>ſhallſea concerning that buſineſſe.</p>
+                  <closer>Your Petitioners humbly pray this Honourable Aſ<g ref="char:EOLhyphen"/>ſembly will vouchſafe a ſpeciall Committee to heare their ſaid agrievances, whereby ſome ſpeedy order may bee taken for the reliefe of your Petitioners; and the diſ<g ref="char:EOLhyphen"/>charge of the ſaid <hi>Billingsley</hi> out of priſon, as to your wiſdome ſhall ſeem meete.</closer>
+                  <closer>And they ſhall daily pray for the proſperous ſucceſſe of this Honourable Aſſembly,
+<signed>HENRY BILLINGSLEY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="order">
+               <body>
+                  <head>Order of the Commons Houſe upon the ſaid Petition.</head>
+                  <opener>
+                     <dateline>
+                        <date>Sabat. 14. Junii quarto Caroli.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <note place="margin">Order of the Commons Houſe, 4. <hi>Caroli.</hi>
+                     </note> A Petition was this day read in the Commons Houſe of Par<g ref="char:EOLhyphen"/>liament; Exhibited in the name of Merchants of London in generall, and of <hi>Henry Billingsley</hi> in particular; Shewing that upon a Petition formerly exhibited to the ſaid Houſe againſt one <hi>Matthew Dequeſter,</hi> concerning the Poſtmaſters office, in con<g ref="char:EOLhyphen"/>veighing Letters beyond the Seas, and other matters in the ſaid former Petition mentioned, a time now long ſince paſt was ap<g ref="char:EOLhyphen"/>pointed by the grand Committee, for grievances for the hearing of the ſaid cauſe, which by reaſon of many other weighty occaſi<g ref="char:EOLhyphen"/>ons interceding, hath not yet been heard, but the ſaid <hi>Billingsley</hi> ſtill detained a priſoner concerning the ſaid buſineſſe. And there<g ref="char:EOLhyphen"/>fore it was humbly prayed by the ſaid Petitioner, That a ſpeciall Committee might be appointed by the ſaid Houſe, to heare the ſaid complaint; whereupon it is ordered by the ſaid Houſe, that
+<pb n="10" facs="tcp:153620:8"/>
+                     <list>
+                        <item>Mr. Alderman <hi>Molſon.</hi>
+                        </item>
+                        <item>Mr. Alderman <hi>Cl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>therow.</hi>
+                        </item>
+                        <item>Mr. <hi>William Cunſtable.</hi>
+                        </item>
+                        <item>Mr. <hi>Roydon.</hi>
+                        </item>
+                        <item>Mr. <hi>Edward Baſſe.</hi>
+                        </item>
+                        <item>Mr. <hi>Rolles</hi> the Lawyer.</item>
+                        <item>Mr. <hi>Earle</hi>
+                        </item>
+                        <item>Mr. <hi>Matthewes.</hi>
+                        </item>
+                        <item>Mr. <hi>Ginn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>r.</hi>
+                        </item>
+                        <item>Mr. <hi>Barker.</hi>
+                        </item>
+                        <item>Mr. <hi>Sherwell.</hi>
+                        </item>
+                        <item>Mr. <hi>Oldſworth.</hi>
+                        </item>
+                        <item>Mr. <hi>Strode.</hi>
+                        </item>
+                        <item>Mr. <hi>Kerkeham.</hi>
+                        </item>
+                        <item>Mr. <hi>Waller.</hi>
+                        </item>
+                        <item>Mr. <hi>Bunch.</hi>
+                        </item>
+                        <item>Mr. <hi>Rolles.</hi>
+                        </item>
+                        <item>Sir <hi>Tho: Heate.</hi>
+                        </item>
+                        <item>Sir <hi>Tho. Steward.</hi>
+                        </item>
+                        <item>Mr. <hi>Lawley.</hi>
+                        </item>
+                        <item>Sir <hi>Edward Giles.</hi>
+                        </item>
+                        <item>Mr. <hi>Doughtie.</hi>
+                        </item>
+                     </list> ſhall take conſideration of the cauſe contained in the ſaid Petiti<g ref="char:EOLhyphen"/>ons, and for that purpoſe are to meet on Munday next, at two of the Clock in the afternoone, in the Exchequer Chamber, and <hi>Matthew Dequeſter,</hi> and all other perſons whom this buſineſſe concerneth, are to have notice given of the ſaid time and place, and the ſaid <hi>Matthew Dequeſter</hi> is then to bring with him his Let<g ref="char:EOLhyphen"/>ters Patents concerning the ſaid office, and the ſaid parties may be then heard with their Counſell if they thinke fit.</p>
+               </body>
+            </floatingText>
+            <p>This Committee having taken information of the buſineſſe, declared how <hi>Dequeſter</hi> procured his Patent from the King by untrue ſuggeſtions, and that the impriſonment of <hi>Billin sley</hi> by <hi>Dequeſter</hi> was uniuſt, the rather in regard a verdict at Law had paſſed againſt the ſaid <hi>Dequeſter</hi> therein, as more at large in the Report it ſelfe, which followes.</p>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Martis 24. Junii 4. Caroli.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <note place="margin">Report of the Commit<g ref="char:EOLhyphen"/>tee, 4. <hi>Caroli.</hi> Declare <hi>De<g ref="char:EOLunhyphen"/>queſter</hi> to have beene the Lord <hi>Starhops</hi> Deputie pro<g ref="char:EOLhyphen"/>cures a Patent upon untrue ſuggeſtions.</note> REport was this day made from the Committee appointed to conſider of the Petition exhibited unto this Houſe by <hi>Henry Billingsley,</hi> againſt a Patent lately obtained by <hi>Matthew Dequeſter,</hi> for the ſole carrying of all Letters beyond the Seas, and from thence into this Kingdome; upon which Report it appeared, that the ſaid <hi>Matthew Dequeſter</hi> had for many yeares together carry<g ref="char:EOLhyphen"/>ed Letters beyond the Seas, and from thence hither, by vertue of a deputation to him therein made by the Lord <hi>Stanhope,</hi> Poſt<g ref="char:EOLhyphen"/>maſter of England, and having ſo done, did larely <hi>upon ſome un<g ref="char:EOLhyphen"/>true ſuggeſtions procure to himſelf the ſaid Patent</hi> from his Maieſty,
+<pb n="11" facs="tcp:153620:8"/> and then oppoſed the Patent of Poſtmaſter granted to the ſaid Lord <hi>Stanhope,</hi> by force whereof himſelfe had long time taken upon him the carriage of ſuch Letters. And it further appeared that the ſaid <hi>Dequeſter</hi> had abuſed his ſaid Pa<g ref="char:EOLhyphen"/>tent in the execution thereof, to the great preiudice of the Engliſh Me chants, who being by him reſtrained from ſending or receiving their Letters by <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ny other Poſt but himſelfe, and having cut up ſome Packets of Letters ſent by the Merchants by other Poſt, did himſelfe, being an Alien borne, deliver the Let<g ref="char:EOLhyphen"/>ters of the merchant Strangers before the Engliſh, to their great damage, and likewiſe exacted money from the Engliſh merchants, beſides the dae fee, be<g ref="char:EOLhyphen"/>fore they could get their Letters. And that the ſaid <hi>Dequeſter</hi> procured he ſaid Petitioner <hi>Billingsley,</hi> deputed by the ſaid Lord <hi>Stanhope</hi> to carry the ſaid Let<g ref="char:EOLhyphen"/>ters to be impriſoned for carrying thereof; which impriſonment the Com<g ref="char:EOLhyphen"/>mit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee conceived to be unjuſt; <note place="margin">A<g ref="char:EOLunhyphen"/>gai<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap> 
+                        <hi>
+                           <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>
+                           <g ref="char:EOLunhyphen"/>ſter</hi>
+                     </note> the rather becauſe <hi>a verdict at Law hath paſſed againſt the ſaid Dequrſter therein.</hi> Whereupon it is declared and adiudged by the ſaid Houſe of Commons, that the ſaid Patent ſo gran<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed to the ſaid <hi>De<g ref="char:EOLhyphen"/>queſter</hi> is a grievan<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e in the execution. And it is further ordered, that he ſaid Commi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee ſhall frame and tender to the Houſe a Petition to be preſented to his Maieſty, for the inlargement of the ſaid <hi>Billingsl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> out of priſon, whe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e hee hath been impriſoned by the ſpace of thirteen weekes. And are to meet at ſea<g ref="char:EOLhyphen"/>ven of the Clock to morrow morning in the Court of Wards.</p>
+                  <closer>
+                     <signed>P<hi rend="sup">o</hi>. E. Brighte.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>THus was the Patent of <hi>Dequeſter</hi> on all ſides found uniuſt, and the Ho<g ref="char:EOLhyphen"/>nour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble Houſe of Commons having then daclared and adiudged the ſame a grievance, would no doubt have put the Lord <hi>Stanhope</hi> againe in poſ<g ref="char:EOLhyphen"/>ſeſſion, had not that Parliament been unhappily diſſolved within two dayes af<g ref="char:EOLhyphen"/>ter the ſaid Report was made.</p>
+            <p>But <hi>Dequeſter,</hi> though inceſſantly oppoſed by ſo much right and reaſon, did ſo often imp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon <hi>Billingsley,</hi> and perplexe him otherwiſe, as was his utter un<g ref="char:EOLhyphen"/>doing in the end, and by that meanes continued by himſelfe the execution of his unduly got Patent, till the 20. of <hi>Febr.</hi> 1631. which was twelve yeares: and it is remarkable, that <hi>Dequeſter</hi> during all the time, did neither more nor leſſe about Services to be done out of his Maieſties Dominions, which was the Tenure of the Kings immediate Grant unto himſelfe, than what he did before as Deputy to the Lord <hi>Stanhope</hi> for twenty yeares together.</p>
+            <p>But now under the 20. of <hi>Febr.</hi> 1631. as aforeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id, <hi>Matthew Dequeſter</hi> makes a deputation of his forrame Poſtmaſterſhip <hi>concerning ſervices to be don<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of his Majeſties Dominions</hi> unto Mr. <hi>Thomas Witherings,</hi> with all rights and priviledges thereunto belonging, and then Covenants, that if he the ſaid Mr <hi>Thomas Witherings,</hi> or his Aſſignes or any other, ſhall obtain a new Patent <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> forraine Poſts and Curriers ſhall be co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <pb n="12" facs="tcp:153620:9"/> and the ſaid Mr. <hi>Witherings</hi> thereby alſo promiſes, that the number of the ſaid nine Curriers ſhall not be encreaſed, but by him continued as then they were, with all the priviledges and benefits they then uſually enjoyed.</p>
+            <p>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>gs</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> Mr. <hi>Witherings</hi> by vertue of this deputation from <hi>Dequeſter,</hi> and the rever<g ref="char:EOLhyphen"/>ſion granted <hi>Frizell</hi> and himſelfe, the 15. of March following, 7. <hi>Coroli,</hi> be<g ref="char:EOLhyphen"/>ing in poſſeſſion and exerciſe of the forraigne buſineſſe, continued to make uſe of theſe nine forraigne Poſts or Curriers ſome few moneths only, and then turned them all out of their imployment and office which they had purchaſed for their lives, and Mr. <hi>Witherings</hi> himſelf covenanted with <hi>Dequeſter</hi> as afore<g ref="char:EOLhyphen"/>ſaid, to keep them in, by which device of his, he comes to enjoy the whole fruits of the forraigne office himſelfe, who before was to have had not above the twentieth part, the other nineteene parts being divided betwixt theſe nine Curriers, who by this proiect may have ſuffered already about twenty thouſand pounds ſterling.</p>
+            <p>And if it be alleadged, as it may truly, that the ſaid forraign Letters go now more ſpeedily and orderly by this way of Stasfetta then formerly; yet it is as eaſily replyed, that though the good of the weale publique be in no kinde to be omitted, nor advancement of the office neglected, that in ſuch caſe the im<g ref="char:EOLhyphen"/>provement of the office ſhould be alike to all the intereſſed, and not ſome all, ſome none at all, eſpecially in this caſe of the forraigne Curriers, who equally with Mr. <hi>Witherings</hi> had their offices for their lives, and better title derived from the Lord <hi>Stanhope;</hi> Whereas Mr. <hi>Witherings</hi> his was only from <hi>Mat<g ref="char:EOLhyphen"/>thew Dequeſter</hi> by deputation, or what <hi>Dequeſter</hi> had in reverſion.</p>
+            <p>The Lord <hi>Stanhope</hi> and his Deputies being thus outed of their profits and employment about forraine ſervices which their Predeceſſors Poſtmaſters ge<g ref="char:EOLhyphen"/>nerall of England had for above foureſcore yeares together enioyed uncon<g ref="char:EOLhyphen"/>trollably, did ſtill continue to carry to and fro within the Kingdomes, all pac<g ref="char:EOLhyphen"/>kets of letters both of State and Subiects which were brought unto them for ſuch rates and benefits as was agreed between the parties, every man being free to ſend his Letters by whom he would, and to pay as little as he could; and thus it continued till a little before 1637. 22. <hi>Junii,</hi> 13. <hi>Caroli,</hi> at which time Mr. <hi>Witherings</hi> upon miſinformation obtaines a grant from the King, whereby he ſince pretends to carry all Letters himſelfe, which how far it entrenches up<g ref="char:EOLhyphen"/>on the freemans liberty, will no doubt be duly weighed and conſidered of by the Parliament.</p>
+            <p>
+               <hi>Matthew Dequeſter</hi> 17. of King <hi>James,</hi> upon the obtaining to be Poſtma<g ref="char:EOLhyphen"/>ſter of England, for ſervices to be done out of his Maieſties Dominions, al<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eadged in his owne Patent, that the Lord <hi>Stanhopes</hi> grant was of ſervice to be done within his Maieſties Dominions only, and ſo was content to let the Lord <hi>Stanhope</hi> have the inland buſineſſe, which ſhewed at leaſt he had ſome conſci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce, and would tell truth, though not the whole truth <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:153620:9"/> buſineſſe, by the ſame Law, and with as much equity, did Mr. <hi>Witherings</hi> turne his officers and his deputies out of the inland buſineſſe, and yet both by <hi>De<g ref="char:EOLhyphen"/>queſter</hi> and Mr. <hi>Witherings</hi> acknowledged to be poſtmaſter generall of Eng<g ref="char:EOLhyphen"/>land, and all other his Maieſties Dominions.</p>
+            <p>The Lord <hi>Stanhope</hi> thus knowne to be poſtmaſter of England, beſides the continuall practice and preſcription of his predeceſſors, for foureſcore yeares together, the very title and ſound of poſtmaſter generall of England is ſuffici<g ref="char:EOLhyphen"/>ent to tell every one, that he and his deputies are they that ſhould likely take charge and carry the Letters to and fro, ſo long as they are in England: <note place="margin">
+                  <hi>Dequeſters</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>feſſion of Lord <hi>Sta<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Patent.</note> And <hi>Matthew Dequeſter in his ſecond Patent,</hi> 17. <hi>Jacobi, confeſſed himſelfe to be Poſt<g ref="char:EOLhyphen"/>maſter for ſervices only to be done out of England, and that the Lord</hi> Stanhopes <hi>grant and his Were of diſtinct places, one within his Majeſties Dominions, the other without his Majeſties Dominions,</hi> and yet he by vertue of this Patent for for<g ref="char:EOLhyphen"/>raigne ſervices, and thoſe to be done out of his Maieſties Dominions, where the King had no power to grant a priviledge, did totally abridge the Lord <hi>Stanhope</hi> and his deputies from medling within the Kings Dominions with any packets of Letters either of King or Subiect, which came from abroad into England, or went out of England into forraine parts.</p>
+            <p>Againe Mr. <hi>Witherings</hi> will not deny the Lord <hi>Stanhope</hi> to be poſtmaſter ge<g ref="char:EOLhyphen"/>nerall of England, and the Poſts of England to be his deputies, at leaſt he pre<g ref="char:EOLhyphen"/>tends not to be ſuch himſelfe, and yet conſtrained the poſts upon all the Rodes to carry his Mailes of Letters, ſuffering no body elſe to carry Letters but theſe poſts deputies to the Lord <hi>Stanhope,</hi> 
+               <note place="margin">Mr. <hi>Wither<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> oppreſſion <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the inland Poſts.</note> and appropriated the whole benefit unto himſelfe, without the leaſt acknowledgement unto the Lord <hi>Stanhope,</hi> or no<g ref="char:EOLhyphen"/>tice of the poſts his deputies, unleſſe it were to turne ſome of them out of their places, make others pay a ſecond fine, and reduce the wages of the reſt from above 4000. li. <hi>per annum,</hi> to 2053. li. beſides the want of their arreares, being many thouſand pounds, to the utter undoing of many families, as in their own Remonſtrance more at large appeares.</p>
+            <p>But beſides the invalidity of Mr. <hi>Witherings</hi> his patent derived from <hi>Deque<g ref="char:EOLhyphen"/>ſter,</hi> which ſo plainly trenches upon the Lord <hi>Stanhope,</hi> who by that meanes was illegally put out of his poſſeſſion, <note place="margin">Mr. <hi>Wither<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> ſeverall miſ<g ref="char:EOLunhyphen"/>demeanour<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Mr. <hi>Witherings</hi> was further accuſed of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>undry miſdemeanours; as firſt, opening of packets and letters: 2. Not ad<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſing the Kings Miniſters the receipt of their letters in due time. 3. Exaction <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f greater poſtage of letters. 4. Exportation, or conniving at exportation of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>old and goods unaccuſtomed, under colour of his office. 5. Not ſuffering <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e officers to ſearch his paſſage boate. 6. Not holding correſpondency with <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rraine poſtmaſters for want of languages. 7. Not payment of duties to for<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ine poſtmaſters. 8. Miſdemenours of his deputies and ſervants in both of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:153620:10"/> Mailes for nothing. 13. Detaining ſome mens Letters longer then others. 14. Refuſing to ſend away the Kings packets. 15. In making a Monopoly of his patent, by the ill execution of it. And laſt, of his not diſcharging of the truſt the King repoſed in him for execution of the ſaid offices, and although all theſe reaſons were not ſpecified in <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſequeſtration, together with the nul<g ref="char:EOLhyphen"/>lity of <hi>Dequeſter</hi> and Maſter <hi>Witherings</hi> his patent, by a verdict in the Kings Bench, and the Committees Report to the Commons Houſe of Parliament, 4. <hi>Caroli,</hi> a reference to two Honourable perſonages, and his Majeſties At<g ref="char:EOLhyphen"/>turney, and Soliciter generall, the oppreſſion of the 9. forraine poſts, oppreſ<g ref="char:EOLhyphen"/>ſion of all the inland poſts. Carriers, Wagons, foot-poſts, and others impri<g ref="char:EOLhyphen"/>ſoned and undone by Mr. <hi>Witherings,</hi> yet his Majeſty, his privy Counſell, and the Secretaries of State were mad<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> therwith acquainted, as doth appeare by the originall petitions, and ſundry paſſages at Counſell Table, how theſe were joyntly a meanes with thoſe declared therein, to bring on the ſequeſtration, which could not well have been deferred any longer: 1. Becauſe the objecti<g ref="char:EOLhyphen"/>ons againſt Mr. <hi>Witherings</hi> were many. 2. Of a high and heinous nature. 3. In regard that offices of this kinde have a tacite condition and obligation annex<g ref="char:EOLhyphen"/>ed unto them of the officers good behaviour, and due performance, the failing wherein becomes a forfeiture, <hi>Ipſo facto,</hi> and 4. Becauſe the King was then upon departure for the North, and for good government of his owne affaires, and better uſage of his ſubjects, both which were more liable to ſuffer in his Majeſties abſence, yet was it not intended that Mr. <hi>Witherings</hi> ſhould be outed quite without a faire and legall triall, for at the ſame time the King gave order (as appeares) for a Bill to be put againſt him in Starchamber, the fruits of the offices being only retained in <hi>de poſito</hi> for him, till he make good his Titile and cleare himſelfe of the miſdemeanours he was accuſed of, ſome whereof are iuſtified in the Houſe of Commons, and at a Committee, and others, too tedi<g ref="char:EOLhyphen"/>ous for this diſcourſe, will likewiſe be made appeare when the Committee pleaſes but to give leave; Yet ſince Mr. <hi>Whitherings</hi> is on a ſudden ſo impor<g ref="char:EOLhyphen"/>tunate of diſpatch, to give a touch hereof in briefe may perhaps, being ſud<g ref="char:EOLhyphen"/>denly diſperſed, more ſpeedily informe the Honourable Court of Parlia<g ref="char:EOLhyphen"/>ment, and ſave them many a tedious and troubleſome ſitting.</p>
+            <p>That Letters have beene opened, quite miſcarried, and ſome mens longe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> detained than others, is proved in the Houſe, partly <hi>viva voce,</hi> and partly by ſeverall Letters, and a Petition from the Engliſh Merchants living in Italy<g ref="char:punc">▪</g> Now ſince, all this and much more may be done by M. <hi>Witherings</hi> in ſuc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manner, as will be impoſſible to be proved againſt him, that is, when there i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no witneſſe by, in like caſes to prevent inconveniences, ſuch proofes are accep<g ref="char:EOLunhyphen"/>ted of, as can be had which in this caſe muſt bee by obliging Mr. <hi>Withering<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:153620:10"/> 
+               <hi>Witherings</hi> ſhould have writ to the Poſtmaſter of Antwerpe, Venice, Man<g ref="char:EOLhyphen"/>tua, or from whence they came, <note place="margin">Mr. <hi>Wit<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> chargea<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all lett<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>livered</note> and that ſaid Poſtmaſter was to cleare himſelfe for ſending letters open, which diligence if Mr. <hi>Witherings</hi> cannot prove to have done ſo often as letters came open, he is to be charged with the opening of them himſelfe, otherwiſe he may open them all, and as often as he pleaſe, and ſay he received them ſo from the Poſtmaſter of Antwerp, and the Poſtmaſter of Anwerp may open them at Antwerpe, and ſay it was the Poſt<g ref="char:EOLhyphen"/>maſter of England, and ſo the whole world be continually abuſed by a couple of Poſtmaſters, there being no other poſſibility of redreſſe.</p>
+            <p>In like manner totall concealing, or detaining ſome mens letters longer then other ſome, falls flat upon Mr. <hi>Witherings,</hi> thus; <note place="margin">Mr. <hi>W<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> charga<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> all lett<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>tained</note> All Letters directed from London to Venice, Mantua, Antwerp, or any other place, ſhould be made up together by themſelves in a bundle, and ſealed with the Poſtmaſters knowne ſeale, and from thence to London reciprocally; and if the ſeverall bundles come thus to h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, ſealed up, then will all letters of one date come together, and not miſcarry, or be delaied; but if they come open, or ſealed with a ſtrange ſeale, then is Mr. <hi>Witherings</hi> to make the ſeverall Poſtmaſters reſpectively to cleare themſelves; which diligence ſince Mr. <hi>Witherings</hi> proves not to have uſed, nor made a Role or Inventory of all letters, as he was commanded by his Majeſtie and privie Counſell, and practiſed by his predeceſſors, all miſcarriage, and detaining ſome mens letters longer then others, muſt light upon Mr. <hi>Wi<g ref="char:EOLhyphen"/>therings,</hi> otherwiſe he and ſuch Poſtmaſters may delude the whole world, in quite concealing or longer withholding of their letters, juſt as in opening them at his pleaſure, as aforeſaid. But it is proved in the Houſe, and acknowledged that Mr. <hi>Witherings</hi> did not ſeale up the Portmantle according to order of his Majeſtie, and Counſell Table, but left it open, by which meanes gold was con<g ref="char:EOLhyphen"/>veied out of the Kingdome, <note place="margin">Gold <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kingd<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Maſte<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rings</hi> maile<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> as it is proved in the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, and the leaving open the Mailes, flatly ſignifies ſome ſuch ill intent, or a moſt notorious careleſneſſe, and neglect, in that the portmantle being open, as Mr. <hi>Witherings</hi> uſed to ſend it, every raſcall poſtilion boy, or other, that had the ſaid portmantle in his power, might be invited or inveigled to convey away his Maieſties packets, or fill his pockets with letters worth five or tenne pounds, or what he pleaſed, and deliver them to any Marriner or paſſenger in the packet Boat which went to Callis or Dunkerke, whether the ſaid letters were directed, <note place="margin">Carel<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Ma<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>thering<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </note> the ſaid Marriners or paſſenger might deliver them as well as the poſtmaſter himſelfe, and receive the ready money for them; now were it not that Mr. <hi>Witherings</hi> was contented to endanger his Maieſties packets and affaires, and run an imminent hazard of his owne loſſe, contrary to his Ma<g ref="char:EOLhyphen"/>ieſties command, through the expectation of a farre greater unlawfull gain by tranſportation of gold, and other prohibited and unaccuſtomed goods, which is as well proved againſt him, as ſuch deeds of darkenſſe can well bee, then <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be ſo farre called in queſtion<g ref="char:punc">▪</g> as make
+<pb n="16" facs="tcp:153620:11"/> him altogether incapable to execute an Office of ſuch truſt and conſequence.</p>
+            <p>Beſides Mr. <hi>Witherings</hi> his refuſall to ſend his Majeſties packets, was ſo e<g ref="char:EOLhyphen"/>vident, as being but conſidered of, may chance make it a leſſer evill, that Mr. <hi>Witherings</hi> his Offices (if his they be) be depoſited (though otherwiſe il<g ref="char:EOLhyphen"/>ligally) in ſuch hands as know better how to mannage them for him then him<g ref="char:EOLhyphen"/>ſelfe, rather then his Majeſties packets ſhould not be ſent away, till Mr. <hi>Wi<g ref="char:EOLhyphen"/>therings</hi> had been convicted by a two or three termes ſute at Law, in which in<g ref="char:EOLhyphen"/>terim the affaires of King and State might have ſuffered irreparably.</p>
+            <p>It is then humbly motioned unto the Honorable Committee, that though all the reaſons here mentioned, with ſome others, were not ſpecified in the ſeque<g ref="char:EOLhyphen"/>ſtration, ſince really they were motives thereunto, and well hoped by ſuch as it concernes, that it will be found both juſt and equitable, eſpecially with this ſupreme Court of equity, that thoſe together with the reſt be all examined be<g ref="char:EOLhyphen"/>fore the ſequeſtration be removed.</p>
+            <p>But if Mr. <hi>Witherings</hi> doe ſtill perſiſt declining the triall of his Patent, and the examination of his miſdemeanours, exagerating his illegall putting out, and importuning for a repoſſeſſion, in caſe this Honorable Committee ſhould be inclined thereto, may they pleaſe onely to reflect upon, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nhope</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ed out</note> how the Lord <hi>Stanhope</hi> (whoſe predeceſſours enjoyed theſe Offices for foureſcore yeares, as is notorious to all the world) had the Broad Seal of England likewiſe, was put out of poſſeſſion illegally, &amp; that the ſame Law which M. <hi>Witherings,</hi> implores to put him in again, may be thought inclinable to repoſſeſſe the Lord <hi>Stanhope</hi> firſt, the rather in regard, that if the Lord <hi>Stanhope</hi> had not beene firſt turned out illegally Mr. <hi>Witherings</hi> had never come in at all, <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſe <hi>
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>erings</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t all.</note> as alſo becauſe there is no Petition beſides the Lord <hi>Stanhopes</hi> before this Honorable Court, which layes claim to either forrain or Inland Office, unleſſe the Earle of Warwicks, a Copy of whoſe Deputation, in ſuch caſe we humbly crave, and a competent time to anſwer to it, ſince the Lord <hi>Stanhops,</hi> and the Poſtmaſters petitions have beene put in theſe twelve moneths, and the Earle of Warwicks not full twelve dayes ſince, which being but once taken notice of, we doe not onely hope, but reſt aſſured it may ſtand with the Juſtice and Equity of this Supreme Aſſembly, to grant us our requeſt, whereunto we muſt ſubmit our ſelves howſoever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153620:11"/>
+            <pb facs="tcp:153620:12"/>
+            <pb facs="tcp:153620:12"/>
+            <pb facs="tcp:153620:13"/>
+            <pb facs="tcp:153620:13"/>
+            <pb facs="tcp:153620:14"/>
+            <pb facs="tcp:153620:14"/>
+            <pb facs="tcp:153620:15"/>
+            <pb facs="tcp:153620:15"/>
+            <pb facs="tcp:153620:16"/>
+            <pb facs="tcp:153620:16"/>
+            <pb facs="tcp:153620:17"/>
+            <pb facs="tcp:153620:17"/>
+            <pb facs="tcp:153620:18"/>
+            <pb facs="tcp:153620:18"/>
+            <pb facs="tcp:153620:19"/>
+            <pb facs="tcp:153620:19"/>
+            <pb facs="tcp:153620:20"/>
+            <pb facs="tcp:153620:20"/>
+            <pb facs="tcp:153620:21"/>
+            <pb facs="tcp:153620:21" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
